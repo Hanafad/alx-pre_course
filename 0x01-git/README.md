@@ -1,5 +1,3 @@
-My first readme and cool
-
-this is the first git project
+My first 
 
 be up to date
